@@ -1,0 +1,11 @@
+time python Q1-article-ids.py
+time python Q2-category-ids.py
+time python Q3-article-categories.py
+time python Q4-edges.py
+time python Q5-graph-components.py
+time python Q6-finished-paths.py
+time python Q7-percentage-paths.py
+time python Q8-category-paths.py
+time python Q9-category-subtree-paths.py
+time python Q10-category-pairs.py
+time python Q11-category-ratios.py
