@@ -171,7 +171,7 @@ Time taken: Approximately 40-50 seconds
 
 Q12:
 Run in linux terminal:
-bash assign1.sh
+bash assign2.sh
 
 Internally runs:
 Q1-article-ids.py
